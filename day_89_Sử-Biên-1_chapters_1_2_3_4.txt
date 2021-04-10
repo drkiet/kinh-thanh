@@ -1,0 +1,193 @@
+ngày 89:
+
+đọc Sử-Biên-1, Chương ['1', '2', '3', '4']:
+
+  Chương 1.
+
+    1: Ông A-đam, ông Sết, ông E-nốt.
+    2: Ông Kê-nan, ông Ma-ha-lan-ên, ông Gie-rét.
+    3: Ông Kha-nốc, ông Mơ-thu-se-lác, ông La-méc.
+    4: Ông Nô-ê, ông Sêm, ông Kham, ông Gia-phét.
+    5: Các con của ông Gia-phét là Gô-me, Ma-gốc, Mê-đi, Gia-van, Tu-van, Me-séc, Ti-rát.
+    6: Các con của ông Gô-me là Át-cơ-nát, Ri-phát, Tô-gác-ma,
+    7: Các con của ông Gia-van là Ê-li-sa, Tác-sít, người Kít-tim, người Rô-đa-nim.
+    8: Các con của ông Kham là Cút, Mít-ra-gim, Pút, Ca-na-an.
+    9: Các con của ông Cút là Xơ-va, Kha-vi-la, Xáp-ta, Ra-ơ-ma, Xáp-tơ-kha. Các con của ông Ra-ơ-ma là Sơ-va, Đơ-đan.
+    10: Ông Cút sinh ra ông Nim-rốt là người anh hùng đầu tiên trên mặt đất.
+    11: Ông Mít-ra-gim sinh ra dân Lút, dân A-nam, dân Lơ-háp, dân Náp-tu-khim,
+    12: dân Pát-rốt, dân Cát-lúc và dân Cáp-to, từ dân này mới có dân Phi-li-tinh.
+    13: Ông Ca-na-an sinh ra ông Xi-đôn là con đầu lòng, rồi sinh ông Khết,
+    14: và các người Giơ-vút, người E-mô-ri, người Ghia-ga-si,
+    15: người Khi-vi, người Ác-ki, người Xi-ni,
+    16: người Ác-vát, người Xơ-ma-ri, người Kha-mát.
+    17: Các con của ông Sêm là Ê-lam, Át-sua, Ác-pắc-sát, Lút, A-ram, Út, Khun, Ghe-the, Me-séc.
+    18: Ác-pắc-sát sinh Se-lác. Se-lác sinh Ê-ve.
+    19: Ê-ve được hai người con trai: người thứ nhất tên là Pe-lét, vì trong thời gian ông sống, đất được phân chia; người em tên là Gióc-tan.
+    20: Gióc-tan sinh An-mô-đát, Se-lép, Kha-xa-ma-vét, Gie-rác,
+    21: Ha-đô-ram, U-dan, Đích-la,
+    22: Ê-van, A-vi-ma-ên, Sơ-va,
+    23: Ô-phia, Kha-vi-la, Giô-váp. Tất cả những người đó là con của ông Gióc-tan.
+    24: A-pắc-sát, Se-lác,
+    25: Ê-ve, Pe-lét, Rơ-u,
+    26: Xơ-rúc, Na-kho, Te-rác,
+    27: Áp-ram, tức là Áp-ra-ham.
+    28: Các con của ông Áp-ra-ham là I-xa-ác và Ít-ma-ên. Đây là hậu duệ của các ngài.
+    29: Con đầu lòng của ông Ít-ma-ên là Nơ-va-giốt, rồi đến Kê-đa, Át-bơ-ên, Míp-xam,
+    30: Mít-ma, Đu-ma, Ma-xa, Kha-đát, Tê-ma,
+    31: Giơ-tua, Na-phít, Kết-ma. Đấy là các con của ông Ít-ma-ên.
+    32: Con của bà Cơ-tu-ra, vợ lẽ của ông Áp-ra-ham: bà sinh Dim-ran, Gióc-san, Mơ-đan, Ma-đi-an, Gít-bắc, Su-ác. Các con của ông Gióc-san là Sơ-va và Đơ-đan.
+    33: Các con của ông Ma-đi-an là Ê-pha, Ê-phe, Kha-nốc, A-vi-đa, En-đa-a. Tất cả những người ấy là con cháu bà Cơ-tu-ra.
+    34: Ông Áp-ra-ham sinh I-xa-ác. Các con của ông I-xa-ác là Ê-xau và Ít-ra-en.
+    35: Các con của ông Ê-xau là Ê-li-phát, Rơ-u-ên, Giơ-út, Gia-lam, Cô-rắc.
+    36: Các con của ông Ê-li-phát là Tê-man, Ô-ma, Xơ-phi, Ga-ơ-tam, Cơ-nát, Tim-na, A-ma-lếch.
+    37: Các con của ông Rơ-u-ên là Na-khắt, De-rác, Sam-ma, Mít-da.
+    38: Các con của ông Xê-ia là Lô-tan, Sô-van, Xíp-ôn, An-na, Đi-sôn, Ê-xe, Đi-san.
+    39: Các con của ông Lô-tan là Khô-ri, Hô-mam. Em gái của ông Lô-tan là Tim-na.
+    40: Các con của ông Sô-van là An-gian, Ma-na-khát, Ê-van, Sơ-phi, Ô-nam. Các con của ông Xíp-ôn là Ai-gia và A-na.
+    41: Con của ông A-na là Đi-sôn. Các con của ông Đi-sôn là Kham-ran, Ét-ban, Gít-ran, Cơ-ran.
+    42: Các con của ông Ê-xe là Bin-han, Da-a-van, Gia-a-can. Các con của ông Đi-sôn là Út và A-ran.
+    43: Đây là các vua cai trị xứ Ê-đôm trước khi con cái Ít-ra-en có vua: vua Be-la con vua Bơ-o, và thành của vua tên là Đin-ha-va.
+    44: Vua Bê-la qua đời, ông Giô-váp, con ông De-rác, người Bót-ra, lên kế vị.
+    45: Vua Giô-váp qua đời, ông Khu-sam, người gốc xứ Tê-man, lên kế vị.
+    46: Vua Khu-sam qua đời, ông Ha-đát, con ông Bơ-đát, lên kế vị. Vua này đánh bại người Ma-đi-an trong cánh đồng Mô-áp, thành của vua tên là A-vít.
+    47: Vua Ha-đát qua đời, ông Xam-la, người thành Mát-rê-ca, lên kế vị.
+    48: Vua Xam-la qua đời, ông Sa-un, người thành Rơ-khô-vốt Ha Na-ha lên kế vị.
+    49: Vua Sa-un qua đời, ông Ba-an Kha-nan, con ông Ác-bo lên kế vị.
+    50: Vua Ba-an Kha-nan qua đời, ông Ha-đát lên kế vị; thành của vua tên là Pa-i; vợ vua tên là Mơ-hê-táp-ên, con gái ông Ma-rết, người thành Mê Da-háp.
+    51: Vua Ha-đát qua đời thì có các tộc trưởng Ê-đôm: tộc trưởng Tim-na, tộc trưởng An-va, tộc trưởng Giơ-thết,
+    52: tộc trưởng O-ho-li-va-ma, tộc trưởng Ê-la, tộc trưởng Pi-nôn,
+    53: tộc trưởng Cơ-nát, tộc trưởng Tê-man, tộc trưởng Míp-xa,
+    54: tộc trưởng Mác-đi-ên, tộc trưởng I-ram. Đó là các tộc trưởng Ê-đôm.
+
+  Chương 2.
+
+    1: Đây là các con ông Ít-ra-en: Rưu-vên, Si-mê-ôn, Lê-vi, Giu-đa, Ít-xa-kha, Dơ-vu-lun,
+    2: Đan, Giu-se, Ben-gia-min, Náp-ta-li, Gát, A-se.
+    3: Các con ông Giu-đa: E, Ô-nan, Sê-la; cả ba đều là con ông, do bà Bát Su-a người Ca-na-an sinh ra. Ông E, con đầu lòng ông Giu-đa, làm mất lòng ĐỨC CHÚA, nên Người khiến ông chết.
+    4: Bà Ta-ma, con dâu ông Giu-đa, sinh cho ông này Pe-rét và De-rác. Ông Giu-đa có tất cả năm người con.
+    5: Các con của ông Pe-rét là Khét-rôn và Kha-mun.
+    6: Các con của ông De-rác là: Dim-ri, Ê-than, Hê-man, Can-côn, Đa-ra, tất cả là năm người.
+    7: Con của ông Các-mi là A-kha, kẻ gây tai họa cho Ít-ra-en, vì đã vi phạm luật biệt hiến.
+    8: Con của ông Ê-than là A-dác-gia.
+    9: Các con của ông Khét-rôn, những người đã được sinh ra cho ông: Giơ-rác-mơ-ên, Ram, Cơ-lu-vai.
+    10: Ram sinh Am-mi-na-đáp, Am-mi-na-đáp sinh Nác-sôn, thủ lãnh con cái ông Giu-đa.
+    11: Nác-sôn sinh Xan-ma, Xan-ma sinh Bô-át.
+    12: Bô-át sinh Ô-vết, Ô-vết sinh Gie-sê.
+    13: Gie-sê sinh con đầu lòng là Ê-li-áp, con thứ là A-vi-na-đáp, và Sim-a là thứ ba,
+    14: Nơ-than-ên thứ tư, Rát-đai thứ năm,
+    15: Ô-xem thứ sáu, Đa-vít thứ bảy.
+    16: Chị em gái của họ là Xơ-ru-gia và A-vi-ga-gin. Các con của bà Xơ-ru-gia có ba người là Áp-sai, Giô-áp, A-xa-hên.
+    17: Bà A-vi-ga-gin sinh A-ma-xa, cha của A-ma-xa là Gie-the, người Ít-ma-ên.
+    18: Ông Ca-lếp, con ông Khét-rôn, cùng vợ là bà A-du-va sinh ra ông Giơ-ri-ốt. Đây là các con của bà: Giê-se, Sô-váp, Ác-đôn.
+    19: Bà A-du-va chết, ông Ca-lếp cưới bà Ép-rát, và bà này sinh ra cho ông người con tên là Khua.
+    20: Khua sinh U-ri, U-ri sinh Bơ-xan-ên.
+    21: Sau đó ông Khét-rôn đến với con gái ông Ma-khia, cha ông Ga-la-át. Khi cưới bà, ông đã sáu mươi tuổi, và bà sinh ra Xơ-gúp cho ông.
+    22: Xơ-gúp sinh Gia-ia; ông này có tới hai mươi ba thành trong xứ Ga-la-át.
+    23: Nhưng Gơ-sua và A-ram chiếm mất của họ các thôn làng thuộc Gia-ia, Cơ-nát và các nơi phụ cận là sáu mươi thành. Tất cả những người đó đều là con cháu ông Ma-khia, cha ông Ga-la-át.
+    24: Sau khi ông Khét-rôn chết, thì ông Ca-lếp lại kết hôn với bà Ép-ra-tha, vợ góa của ông Khét-rôn cha mình. Bà đã sinh ra cho ông người con tên là Át-khua, cha của ông Tơ-cô-a.
+    25: Các con của ông Giơ-rác-mơ-ên, con đầu lòng của ông Khét-rôn, là: Ram, con đầu lòng, rồi Bu-na, Ô-ren, Ô-xem, A-khi-gia.
+    26: Ông Giơ-rác-mơ-ên có một người vợ khác tên là A-ta-ra, đó là mẹ của ông Ô-nam.
+    27: Các con của ông Ram, con đầu lòng của ông Giơ-rác-mơ-ên, là: Ma-át, Gia-min, Ê-ke.
+    28: Các con của ông Ô-nam là: Sam-mai và Gia-đa. Các con của ông Sam-mai là Na-đáp và A-vi-sua.
+    29: Tên người vợ của ông A-vi-sua là A-vi-kha-gin. Bà này sinh ra Ác-ban và Mô-lít cho ông.
+    30: Các con của ông Na-đáp là Xe-lét và Áp-pa-gim. Ông Xe-lét chết mà không có con.
+    31: Con của ông Áp-pa-gim là Gít-i; con của ông Gít-i là Sê-san; con của ông Sê-san là Ác-lai.
+    32: Các con của ông Gia-đa, em của ông Sam-mai, là Gie-the và Giô-na-than. Ông Gie-the chết mà không có con.
+    33: Các con của ông Giô-na-than là Pe-lét và Da-da. Đó là con cháu của ông Giơ-rác-mơ-ên.
+    34: Ông Sê-san không có con trai, chỉ có con gái. Ông có người đầy tớ Ai-cập tên là Giác-kha.
+    35: Ông Sê-san gả con gái cho anh đầy tớ làm vợ. Bà này sinh ra Át-tai cho ông.
+    36: Ông Át-tai sinh Na-than, Na-than sinh Da-vát,
+    37: Da-vát sinh Ép-lan, Ép-lan sinh Ô-vết,
+    38: Ô-vết sinh Giê-hu, Giê-hu sinh A-dác-gia,
+    39: A-dác-gia sinh Khe-lét, Khe-lét sinh En-a-xa,
+    40: En-a-xa sinh Xít-mai, Xít-mai sinh Sa-lum,
+    41: Sa-lum sinh Giơ-cam-gia, Giơ-cam-gia sinh Ê-li-sa-ma.
+    42: Các con của ông Ca-lếp, em ông Giơ-rác-mơ-ên, là Mê-sa, con đầu lòng (ông này là cha của ông Díp) và Ma-rê-sa, cha ông Khép-rôn.
+    43: Các con của ông Khép-rôn là Cô-rắc, Táp-pu-ác, Re-kem, Se-ma.
+    44: Ông Se-ma sinh Ra-kham, cha của Gióc-cơ-am. Ông Re-kem sinh Sam-mai.
+    45: Con của ông Sam-mai là Ma-ôn, cha của Bết-xua.
+    46: Bà Ê-pha, tỳ thiếp của ông Ca-lếp, sinh Kha-ran, Mô-xa, Ga-dết. Ông Kha-ran sinh Ga-dết.
+    47: Các con của ông Gia-đai là Re-ghem, Giô-tham, Ghê-san, Pe-lét, Ê-pha, Sa-áp.
+    48: Bà Ma-a-kha, tỳ thiếp của ông Ca-lếp sinh Se-ve và Tia-kha-na.
+    49: Bà cũng sinh Sa-áp, cha của Mát-man-na, và Sơ-va, cha của Mác-bê-na và của Ghíp-a. Con gái của ông Ca-lếp là Ác-xa.
+    50: Đó là con cháu ông Ca-lếp.
+    51: Xan-ma, cha của Bê-lem, Kha-rép, cha của Bết Ga-đe.
+    52: Ông Sô-van, cha của Kia-giát Giơ-a-rim, có những người con sau đây: ông Ha-rô-e, một nửa dân Ma-na-khát,
+    53: các thị tộc Kia-giát Giơ-a-rim, dân Gít-ri, dân Pút, dân Su-ma, dân Mít-ra. Từ các người ấy đã phát xuất ra các dân Xo-rơ-a và Ét-ta-ôn.
+    54: Các con của ông Xan-ma là: ông Bê-lem, dân Nơ-tô-pha, ông Át-rốt Bết Giô-áp, một nửa dân Ma-na-khát nữa, dân Xo-rơ-a.
+    55: Các thị tộc người Xô-phơ-rim cư ngụ tại Gia-bết là: Tia-a, Sim-a, Xu- kha. Đó là những người Kê-ni xuất thân từ Kham-mát, tổ phụ của gia đình Rê-kháp.
+
+  Chương 3.
+
+    1: Đây là các con của vua Đa-vít, sinh tại Khép-rôn. Con đầu lòng là Am-nôn, do bà A-khi-nô-am người Gít-rơ-en; người con thứ là Đa-ni-ên, do bà A-vi-ga-gin người Các-men;
+    2: người thứ ba là Áp-sa-lôm, con bà Ma-a-kha, ái nữ của Tan-mai vua Gơ-sua; người thứ tư là A-đô-ni-gia, con bà Khác-ghít;
+    3: người thứ năm là Sơ-phát-gia, do bà A-vi-tan; người thứ sáu là Gít-rơ-am, do bà Éc-la vợ ông.
+    4: Sáu người này là con ông sinh tại Khép-rôn, nơi ông trị vì bảy năm sáu tháng. Rồi ông trị vì tại Giê-ru-sa-lem được ba mươi ba năm.
+    5: Đây là các con ông đã sinh tại Giê-ru-sa-lem: Sim-a, Sô-váp, Na-than, Sa-lô-môn, bốn người do bà Bát Su-a, con gái của ông Am-mi-ên;
+    6: Gíp-kha, Ê-li-sa-ma, Ê-li-pha-lét,
+    7: Nô-ga, Ne-phéc, Gia-phia,
+    8: Ê-li-sa-ma, En-gia-đa, Ê-li-phe-lét, chín người tất cả.
+    9: Đó là tất cả các con vua Đa-vít, không kể các con do các tỳ thiếp. Còn Ta-ma là chị em của họ.
+    10: Các con của vua Sa-lô-môn là: Rơ-kháp-am, A-vi-gia con ông; A-xa, con ông; Giơ-hô-sa-phát, con ông;
+    11: Giô-ram con ông; A-khát-gia-hu con ông; Giô-át con ông;
+    12: A-mát-gia-hu con ông; A-dác-gia con ông; Giô-than con ông;
+    13: A-khát con ông; Khít-ki-gia con ông; Mơ-na-se con ông;
+    14: A-môn con ông; Giô-si-gia-hu con ông.
+    15: Các con của ông Giô-si-gia-hu là: Giô-kha-nan con trưởng, Giơ-hô-gia-kim con thứ, Xít-ki-gia-hu con thứ ba, Sa-lum con thứ tư.
+    16: Các con của ông Giơ-hô-gia-kim là Giơ-khon-gia con ông, Xít-ki-gia-hu con ông.
+    17: Các con vua Giơ-khon-gia, người bị đi đày, là San-ti-ên con ông;
+    18: Man-ki-ram, Pơ-đa-gia, Sen-át-xa, Giơ-cam-gia, Hô-sa-ma, Nơ-đáp-gia.
+    19: Các con ông Pơ-đa-gia là Dơ-rúp-ba-ven và Sim-y. Các con ông Dơ-rúp-ba-ven là Mơ-su-lam, Kha-nan-gia, bà Sơ-lô-mít, em gái các ông.
+    20: Các con ông Mơ-su-lam là: Kha-su-va, Ô-hen, Be-réc-gia, Kha-xát-gia, Giu-sáp Khe-xét: tất cả là năm người.
+    21: Các con ông Kha-nan-gia là: Pơ-lát-gia; Giơ-sa-gia con ông; Rơ-pha-gia con ông; Ác-nan con ông; Ô-vát-gia con ông; Sơ-khan-gia con ông.
+    22: Con của ông Sơ-khan-gia là Sơ-ma-gia. Các con ông Sơ-ma-gia là: Khát-tút, Gích-an, Ba-ri-ác, Nơ-ác-gia, Sa-phát: tất cả là sáu người.
+    23: Các con ông Nơ-ác-gia là: En-giô-ê-nai, Khít-ki-gia, Át-ri-cam: tất cả là ba người.
+    24: Các con ông En-giô-ê-nai là: Hô-đai-va-hu, En-gia-síp, Pơ-la-gia, Ác-cúp, Giô-kha-nan, Đơ-la-gia, A-na-ni: tất cả là bảy người.
+
+  Chương 4.
+
+    1: Các con ông Giu-đa là: Pe-rét, Khét-rôn, Các-mi, Khua, Sô-van.
+    2: Rơ-a-gia, con Sô-van, sinh Gia-khát; Gia-khát sinh A-khu-mai và La-hát. Đó là các thị tộc người Xo-rơ-a.
+    3: Đây là các con của ông Khua: người cha của Ê-tham, rồi đến Gít-rơ-en, Gít-ma, Gít-bát. Em gái các ông tên là Hát-len-pô-ni.
+    4: Pơ-nu-ên là cha của Gơ-đo. Ê-de là cha của Khu-sa. Đó là các con ông Khua, con đầu lòng của ông Ép-ra-tha, cha của ông Bê-lem.
+    5: Ông Át-khua, cha của Tơ-cô-a, có hai bà vợ là Khen-a và Na-a-ra.
+    6: Bà Na-a-ra sinh ra cho ông: A-khút-dam, Khê-phe, các người Têm-ni và người A-khát-ta-ri. Đó là con cháu bà Na-a-ra.
+    7: Các con của bà Khen-a là: Xe-rét, Giơ-xô-kha, Ét-nan.
+    8: Ông Cốt sinh A-núp, Hát-xô-vê-va và các thị tộc A-khác-khên, con Ha-rum.
+    9: Ông Gia-bết vẻ vang hơn các anh em mình. Mẹ ông đặt tên cho ông là Gia-bết; bà nói: “Tôi đã sinh ra nó trong cơn khốn khổ.”
+    10: Ông Gia-bết kêu cầu Thiên Chúa Ít-ra-en rằng: “Nếu thật Ngài giáng phúc cho con, thì xin nới rộng bờ cõi của con và xin tay Ngài phù trợ con, làm cho sự dữ lìa xa và cho con thoát cơn khốn khổ.” Thiên Chúa đã ban cho ông điều ông xin.
+    11: Ông Cơ-lúp, anh em của Su-kha, sinh Mơ-khia là cha của Ét-tôn.
+    12: Ét-tôn sinh Bết Ra-pha, Pa-xê-ác, Tơ-khin-na, cha của Ia Na-khát. Đó là những người thành Rê-kháp.
+    13: Các con ông Cơ-nát là: Ót-ni-ên và Xơ-ra-gia. Các con ông Ót-ni-ên là Kha-thát và Mơ-ô-nô-thai.
+    14: Mơ-ô-nô-thai sinh Óp-ra; Xơ-ra-gia sinh Giô-áp cha của Ghê Kha-ra-sim, vì họ là những người thợ thủ công.
+    15: Các con của ông Ca-lếp, con ông Giơ-phun-ne, là: I-ru, Ê-la, Na-am. Con của Ê-la là Cơ-nát.
+    16: Các con của ông Giơ-ha-len-ên là Díp, Di-pha, Tia-gia, A-xác-ên.
+    17: Các con của ông Ét-ra là Gie-the, Me-rét, E-phe, Gia-lôn. Gie-the là cha của Mi-ri-am, Sam-mai và Gít-bác, cha của Ét-tơ-mô-a. (…)
+    18: Vợ ông, một người Ai-cập, đã sinh ra Gie-rét, cha của Gơ-đo, rồi sinh Khe-ve, cha của Xô-khô, và Giơ-cô-thi-ên, cha của Da-nô-ác. Đây là các con bà Bít-gia, công chúa của Pha-ra-ô mà ông Me-rét đã cưới làm vợ.
+    19: Các con của bà vợ người Giu-đa của ông, chị em với ông Na-kham, cha của ông Cơ-i-la là ông Si-môn người Gác-mi và ông Gít-i người Ma-a-kha.
+    20: Các con ông Si-môn là: Am-nôn, Rin-na, Ben Kha-nan, Ti-lôn. Các con ông Gít-i là Dô-khết và Ben Dô-khết.
+    21: Các con ông Sê-la, con ông Giu-đa, là: E, cha của Lê-kha, La-đa, cha của Ma-rê-sa và các thị tộc những người dệt gấm tại Bết Át-bê-a;
+    22: Giô-kim, các người Cô-dê-va, Giô-át và Xa-ráp, những người đã làm chủ Mô-áp, rồi lại trở về Bê-lem. Đó là (chuyện xưa).
+    23: Những người này là thợ gốm, họ cư ngụ tại Nơ-ta-im và Gơ-đê-ra; họ ở đấy với đức vua để phục vụ ông.
+    24: Các con ông Si-mê-ôn là: Nơ-mu-ên, Gia-min, Gia-ríp, De-rác, Sa-un,
+    25: Sa-lum con ông, Míp-xam con ông, Mít-ma con ông.
+    26: Các con ông Mít-ma là: Kham-mu-ên con ông, Dắc-cua con ông, Sim-y con ông.
+    27: Ông Sim-y được mười sáu người con trai và sáu người con gái, còn anh em ông thì không có nhiều con cái, và các thị tộc của họ không phát triển được như con cái Giu-đa.
+    28: Họ cư ngụ tại Bơ-e Se-va, Mô-la-đa và Kha-xa Su-an,
+    29: tại Bin-ha, tại E-xem và tại Tô-lát,
+    30: tại Bơ-thu-ên, tại Khoóc-ma, tại Xích-lắc,
+    31: tại Bết Mác-ca-vốt, tại Kha-xa Xu-xim, tại Bết Bia-i và tại Sa-a-ra-gim. Đấy là các thành của họ cho tới khi vua Đa-vít lên ngôi.
+    32: Còn các thôn làng của họ thì có năm là: Ê-tham, A-gin, Rim-môn, Tô-khen, A-san;
+    33: và tất cả các thôn làng nằm chung quanh các thành ấy cho cho tới Ba-an. Đó là những nơi họ cư trú và được đăng bộ.
+    34: Mơ-sô-váp, Giam-lếch, Giô-sa, con của A-mát-gia,
+    35: Giô-en, Giê-hu, con của Giô-síp-gia, con của Xơ-ra-gia, con của A-xi-ên,
+    36: En-giô-ê-nai, Gia-a-cô-va, Giơ-sô-kha-gia, A-xa-gia, A-đi-ên, Giơ-xi-mi-ên, Bơ-na-gia,
+    37: Di-da, Ben Síp-y, Ben A-lôn, Ben Giơ-đa-gia, Ben Sim-ri, Ben Sơ-ma-gia.
+    38: Những người ấy được ghi đích danh, đều là những người đứng đầu các thị tộc, và các gia tộc của họ đã tăng lên rất nhiều.
+    39: Từ lối vào Gơ-đo, họ đi tới phía đông thung lũng để tìm đồng cỏ cho đoàn vật của mình.
+    40: Họ tìm được những đồng cỏ xanh tươi, tốt đẹp, và đất đai thì rộng thênh thang, lại an toàn và yên ổn: vì trước kia con cái ông Kham đã cư ngụ tại đó.
+    41: Các người được ghi đích danh ấy đã tới vào thời vua Khít-ki-gia làm vua Giu-đa; họ đánh chiếm các lều trại và gia cư gặp thấy ở đó. Họ áp dụng luật tru hiến cho những thứ ấy đến ngày nay. Rồi họ định cư thay thế người ta, vì ở đấy có đồng cỏ cho đoàn vật của họ.
+    42: Năm trăm người trong số con cái Si-mê-ôn đi tới vùng núi Xê-ia, đứng đầu là ông Pơ-lát-gia, ông Nơ-ác-gia, ông Rơ-pha-gia, ông Út-di-ên, các con ông Gít-i.
+    43: Họ giết hết số người A-ma-lếch thoát chết còn sót lại, rồi cư ngụ ở đó cho đến ngày nay.
+
+End of day 89.

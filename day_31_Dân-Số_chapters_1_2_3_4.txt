@@ -1,0 +1,284 @@
+ngày 31:
+
+đọc Dân-Số, Chương ['1', '2', '3', '4']:
+
+  Chương 1.
+
+    1: Tại sa mạc Xi-nai ngày mồng một tháng hai năm thứ hai kể từ khi con cái Ít-ra-en ra khỏi đất Ai-cập, ĐỨC CHÚA phán với ông Mô-sê trong Lều Hội Ngộ rằng:
+    2: “Các ngươi hãy kiểm tra dân số toàn thể cộng đồng con cái Ít-ra-en theo thị tộc và gia tộc, lập danh sách mọi người đàn ông từng người một.
+    3: Những người từ hai mươi tuổi trở lên, nghĩa là mọi người trong dân Ít-ra-en đến tuổi nhập ngũ, thì ngươi và A-ha-ron hãy liệt kê theo đơn vị của chúng.
+    4: Mỗi chi tộc còn phải có một người giúp các ngươi, người ấy phải là tộc trưởng.
+    5: Đây là danh sách những người đứng ra giúp các ngươi: “Chi tộc Rưu-vên có Ê-li-xua, con Sơ-đê-ua.
+    6: Chi tộc Si-mê-ôn có Sơ-lu-mi-ên, con Xu-ri-sát-đai.
+    7: Chi tộc Giu-đa có Nác-sôn, con Am-mi-na-đáp.
+    8: Chi tộc Ít-xa-kha có Nơ-than-ên, con Xu-a.
+    9: Chi tộc Dơ-vu-lun có Ê-li-áp, con Khe-lôn.
+    10: Con cháu Giu-se: chi tộc Ép-ra-im có Ê-li-sa-ma, con Am-mi-hút, và chi tộc Mơ-na-se có Gam-li-ên, con Pơ-đa-xua.
+    11: Chi tộc Ben-gia-min có A-vi-đan, con Ghít-ô-ni.
+    12: Chi tộc Đan có A-khi-e-de, con Am-mi-sát-đai.
+    13: Chi tộc A-se có Pác-i-ên, con Oóc-ran.
+    14: Chi tộc Gát có En-gia-xáp, con Rơ-u-ên.
+    15: Chi tộc Náp-ta-li có A-khi-ra, con Ê-nan.”
+    16: Đó là những người đại diện của cộng đồng, họ đều là những người phụ trách các chi tộc của họ, chỉ huy quân ngũ Ít-ra-en.
+    17: Ông Mô-sê và ông A-ha-ron nhận những người vừa được chỉ định đích danh,
+    18: và triệu tập toàn thể cộng đồng vào ngày mồng một tháng hai. Người ta xác định phổ hệ theo thị tộc và gia tộc, lập danh sách những người đàn ông, từ hai mươi tuổi trở lên, từng người một.
+    19: Như ĐỨC CHÚA đã truyền cho ông, ông Mô-sê kiểm tra họ trong sa mạc Xi-nai.
+    20: Con cháu Rưu-vên, trưởng nam của Ít-ra-en, sau khi xác định phổ hệ theo thị tộc và gia tộc, người ta lập danh sách từng người một, tất cả đàn ông từ hai mươi tuổi trở lên, mọi người trong tuổi nhập ngũ;
+    21: những người được kiểm tra thuộc chi tộc Rưu-vên, là
+    22: .
+    23: .
+    24: Con cháu Si-mê-ôn, sau khi xác định phổ hệ theo thị tộc và gia tộc, người ta lập danh sách từng người một, tất cả đàn ông từ hai mươi tuổi trở lên, mọi người trong tuổi nhập ngũ;
+    25: những người được kiểm tra thuộc chi tộc Si-mê-ôn, là
+    26: .
+    27: .
+    28: Con cháu Gát, sau khi xác định phổ hệ theo thị tộc và gia tộc, người ta lập danh sách từng người một, tất cả đàn ông từ hai mươi tuổi trở lên, mọi người trong tuổi nhập ngũ;
+    29: những người được kiểm tra thuộc chi tộc Gát, là
+    30: .
+    31: .
+    32: Con cháu Giu-đa, sau khi xác định phổ hệ theo thị tộc và gia tộc, người ta lập danh sách từng người một, tất cả đàn ông từ hai mươi tuổi trở lên, mọi người trong tuổi nhập ngũ;
+    33: những người được kiểm tra thuộc chi tộc Giu-đa, là
+    34: .
+    35: .
+    36: Con cháu Ít-xa-kha, sau khi xác định phổ hệ theo thị tộc và gia tộc, người ta lập danh sách từng người một, tất cả đàn ông từ hai mươi tuổi trở lên, mọi người trong tuổi nhập ngũ;
+    37: những người được kiểm tra thuộc chi tộc Ít-xa-kha, là
+    38: .
+    39: .
+    40: Con cháu Dơ-vu-lun, sau khi xác định phổ hệ theo thị tộc và gia tộc, người ta lập danh sách từng người một, tất cả đàn ông từ hai mươi tuổi trở lên, mọi người trong tuổi nhập ngũ;
+    41: những người được kiểm tra thuộc chi tộc Dơ-vu-lun, là
+    42: .
+    43: .
+    44: Con cháu Giu-se: thuộc chi tộc Ép-ra-im, sau khi xác định phổ hệ theo thị tộc và gia tộc, người ta lập danh sách từng người một, tất cả đàn ông từ hai mươi tuổi trở lên, mọi người trong tuổi nhập ngũ;
+    45: những người được kiểm tra thuộc chi tộc Ép-ra-im, là
+    46: .
+    47: .
+    48: Còn chi tộc Mơ-na-se, sau khi xác định phổ hệ theo thị tộc và gia tộc, người ta lập danh sách từng người một, tất cả đàn ông từ hai mươi tuổi trở lên, mọi người trong tuổi nhập ngũ;
+    49: những người được kiểm tra thuộc chi tộc Mơ-na-se, là
+    50: .
+    51: .
+    52: Con cháu Ben-gia-min, sau khi xác định phổ hệ theo thị tộc và gia tộc, người ta lập danh sách từng người một, tất cả đàn ông từ hai mươi tuổi trở lên, mọi người trong tuổi nhập ngũ;
+    53: những người được kiểm tra thuộc chi tộc Ben-gia-min, là
+    54: .
+    55: .
+    56: Con cháu Đan, sau khi xác định phổ hệ theo thị tộc và gia tộc, người ta lập danh sách từng người một, tất cả đàn ông từ hai mươi tuổi trở lên, mọi người trong tuổi nhập ngũ;
+    57: những người được kiểm tra thuộc chi tộc Đan, là
+    58: .
+    59: .
+    60: Con cháu A-se, sau khi xác định phổ hệ theo thị tộc và gia tộc, người ta lập danh sách từng người một, tất cả đàn ông từ hai mươi tuổi trở lên, mọi người trong tuổi nhập ngũ;
+    61: những người được kiểm tra thuộc chi tộc A-se, là
+    62: .
+    63: .
+    64: Con cháu Náp-ta-li, sau khi xác định phổ hệ theo thị tộc và gia tộc, người ta lập danh sách từng người một, tất cả đàn ông từ hai mươi tuổi trở lên, mọi người trong tuổi nhập ngũ;
+    65: những người được kiểm tra thuộc chi tộc Náp-ta-li, là
+    66: .
+    67: .
+    68: Đó là những người đã được ông Mô-sê và ông A-ha-ron kiểm tra cùng với mười hai người phụ trách Ít-ra-en, mỗi người phụ trách gia tộc mình.
+    69: Tất cả con cái Ít-ra-en đã được kiểm tra theo gia tộc của họ, từ hai mươi tuổi trở lên, tất cả các chiến binh trong dân Ít-ra-en,
+    70: tổng số người được kiểm tra, là
+    71: .
+    72: .
+    73: Còn các thầy Lê-vi, vì quy chế chi tộc của mình, thì không được liệt kê vào số đó.
+    74: ĐỨC CHÚA phán với ông Mô-sê rằng:
+    75: “Riêng chi tộc Lê-vi, ngươi sẽ không kiểm tra và không liệt kê chung với con cái Ít-ra-en.
+    76: Nhưng hãy đặt các thầy Lê-vi phụ trách Nhà Tạm Chứng Ước, cũng như mọi vật dụng và tất cả những gì liên quan tới Nhà Tạm đó. Chính họ sẽ lo việc di chuyển Nhà Tạm và mọi vật dụng, sẽ phục vụ và dựng lều chung quanh Nhà Tạm.
+    77: Khi dời Nhà Tạm, các thầy Lê-vi sẽ hạ Nhà Tạm xuống, và lúc Nhà Tạm dừng lại thì họ sẽ dựng Nhà Tạm lên. Còn ai khác mà tới gần sẽ phải chết.
+    78: Con cái Ít-ra-en sẽ dựng lều, mỗi người nơi doanh trại mình, theo cờ hiệu của từng đoàn quân.
+    79: Còn các thầy Lê-vi thì sẽ dựng lều chung quanh Nhà Tạm Chứng Ước. Như thế thịnh nộ (của Ta) sẽ không giáng xuống cộng đồng con cái Ít-ra-en. Các thầy Lê-vi sẽ phụ trách Nhà Tạm.”
+    80: Con cái Ít-ra-en đã thi hành tất cả mọi điều y như ĐỨC CHÚA đã truyền cho ông Mô-sê.
+
+  Chương 2.
+
+    1: ĐỨC CHÚA phán với ông Mô-sê và ông A-ha-ron rằng:
+    2: “Con cái Ít-ra-en sẽ đóng trại, mỗi người theo cờ hiệu và huy hiệu của gia tộc mình. Chúng sẽ đóng trại ở vòng ngoài, hướng về Lều Hội Ngộ.
+    3: Đóng ở phía đông, hướng mặt trời mọc, là cờ hiệu doanh trại Giu-đa theo đoàn quân của chúng. Đứng đầu con cháu Giu-đa là Nác-sôn, con Am-mi-na-đáp.
+    4: Đoàn quân của chúng, những người đã được kiểm tra, là
+    5: .
+    6: .
+    7: Đóng trại bên cạnh chúng là chi tộc Ít-xa-kha. Đứng đầu con cháu Ít-xa-kha là Nơ-than-ên, con Xu-a.
+    8: Đoàn quân của chúng, những người được kiểm tra, là
+    9: .
+    10: .
+    11: Tiếp theo là chi tộc Dơ-vu-lun, đứng đầu là Ê-li-áp, con Khe-lôn.
+    12: Đoàn quân của chúng, những người được kiểm tra, là
+    13: .
+    14: .
+    15: Tổng số những người được kiểm tra thuộc doanh trại Giu-đa là
+    16: .
+    17: . Những người này sẽ đi tuyến đầu.
+    18: Phía nam là cờ hiệu doanh trại Rưu-vên theo đoàn quân của chúng. Đứng đầu là Ê-li-xua, con Sơ-đê-ua.
+    19: Đoàn quân của chúng, những người được kiểm tra, là
+    20: .
+    21: .
+    22: Đóng trại bên cạnh chúng là chi tộc Si-mê-ôn. Đứng đầu con cháu Si-mê-ôn là Sơ-lu-mi-ên, con Xu-ri-sát-đai.
+    23: Đoàn quân của chúng, những người được kiểm tra, là
+    24: .
+    25: .
+    26: Kế đến là chi tộc Gát. Đứng đầu con cháu Gát là En-gia-xáp, con Rơ-u-ên.
+    27: Đoàn quân của chúng, những người được kiểm tra, là
+    28: .
+    29: .
+    30: Tổng số những người được kiểm tra thuộc doanh trại Rưu-vên là
+    31: .
+    32: theo đoàn quân của chúng. Những người này sẽ đi tuyến hai.
+    33: Tiếp đó Lều Hội Ngộ sẽ lên đường, cùng với doanh trại Lê-vi, đi giữa các doanh trại khác. Đóng trại theo thứ tự nào thì lên đường cũng theo thứ tự ấy, mỗi người cứ giữ vị trí của mình, tùy theo cờ hiệu của mình.
+    34: Cờ hiệu doanh trại Ép-ra-im theo đoàn quân của chúng sẽ nằm ở phía tây. Đứng đầu con cháu Ép-ra-im là Ê-li-sa-ma, con Am-mi-hút.
+    35: Đoàn quân của chúng, những người được kiểm tra, là
+    36: .
+    37: .
+    38: Bên cạnh chúng là chi tộc Mơ-na-se. Đứng đầu con cháu Mơ-na-se là Gam-li-ên, con Pơ-đa-xua.
+    39: Đoàn quân của chúng, những người được kiểm tra, là
+    40: .
+    41: .
+    42: Rồi đến chi tộc Ben-gia-min. Đứng đầu con cháu Ben-gia-min là A-vi-đan, con Ghít-ô-ni.
+    43: Đoàn quân của chúng, những người được kiểm tra, là
+    44: .
+    45: .
+    46: Tổng số những người được kiểm tra thuộc doanh trại Ép-ra-im, là
+    47: .
+    48: , tính theo đoàn quân của chúng. Chúng sẽ đi tuyến ba.
+    49: Cờ hiệu doanh trại Đan theo đoàn quân của chúng sẽ nằm ở phía bắc. Đứng đầu con cháu Đan là A-khi-e-de, con Am-mi-sát-đai.
+    50: Đoàn quân của chúng, những người được kiểm tra, là
+    51: .
+    52: .
+    53: Đóng trại bên cạnh chúng là chi tộc A-se. Đứng đầu con cháu A-se là Pác-i-ên, con Oóc-ran.
+    54: Đoàn quân của chúng, những người được kiểm tra, là
+    55: .
+    56: .
+    57: Kế đến là chi tộc Náp-ta-li. Đứng đầu con cháu Náp-ta-li là A-khi-ra, con Ê-nan.
+    58: Đoàn quân của chúng, những người được kiểm tra, là
+    59: .
+    60: .
+    61: Tổng số những người được kiểm tra thuộc doanh trại Đan là
+    62: .
+    63: . Chúng sẽ đi tuyến cuối cùng, theo cờ hiệu của mình.”
+    64: Đó là con cái Ít-ra-en được kiểm tra theo gia tộc của họ. Tổng số những người được kiểm tra, thuộc các doanh trại, theo đoàn quân của họ, là
+    65: .
+    66: .
+    67: Riêng các thầy Lê-vi, thì không phải kiểm tra cùng với con cái Ít-ra-en, như ĐỨC CHÚA đã truyền cho ông Mô-sê.
+    68: Con cái Ít-ra-en đã thi hành tất cả mọi điều y như ĐỨC CHÚA truyền cho ông Mô-sê. Họ đóng trại theo cờ hiệu, và họ lên đường, mỗi người theo thị tộc và gia tộc của mình.
+
+  Chương 3.
+
+    1: Đây là dòng dõi ông A-ha-ron và ông Mô-sê vào thời ĐỨC CHÚA phán với ông Mô-sê trên núi Xi-nai.
+    2: Tên các con ông A-ha-ron như sau: trưởng nam là Na-đáp, rồi đến A-vi-hu, E-la-da và I-tha-ma.
+    3: Đó là tên các con ông A-ha-ron, những tư tế đã được xức dầu tấn phong để thi hành chức vụ tư tế.
+    4: Ông Na-đáp và ông A-vi-hu đã chết trước nhan ĐỨC CHÚA, vì đã dâng lửa phàm tục trước Thánh Nhan, khi còn ở sa mạc Xi-nai; các ông không có con. Chỉ còn hai ông E-la-da và I-tha-ma thi hành chức vụ tư tế trước mặt ông A-ha-ron, thân phụ các ông.
+    5: ĐỨC CHÚA phán với ông Mô-sê rằng:
+    6: “Hãy gọi chi tộc Lê-vi lại và đặt chúng túc trực bên cạnh tư tế A-ha-ron để giúp nó.
+    7: Chúng phải đảm nhiệm công việc của nó, cũng như công việc của toàn thể cộng đồng trước Lều Hội Ngộ, để lo phục dịch Nhà Tạm.
+    8: Chúng sẽ trông coi tất cả các vật dụng trong Lều Hội Ngộ, đồng thời đảm nhiệm công việc của con cái Ít-ra-en, để lo phục dịch Nhà Tạm.
+    9: Ngươi hãy trao các thầy Lê-vi cho A-ha-ron và các con nó như những người được dâng hiến, những người được dâng hiến mà con cái Ít-ra-en nộp cho nó.
+    10: Ngươi hãy đặt A-ha-ron và các con nó đảm nhận chức vụ tư tế, còn ai khác mà tới gần sẽ phải chết.”
+    11: ĐỨC CHÚA phán với ông Mô-sê rằng:
+    12: “Đây, chính Ta đã chọn các thầy Lê-vi giữa con cái Ít-ra-en thay thế tất cả các trưởng nam, các con đầu lòng trong số con cái Ít-ra-en, cho nên các thầy Lê-vi thuộc về Ta.
+    13: Thật vậy, tất cả các con đầu lòng đều thuộc về Ta, từ ngày Ta đánh phạt tất cả các con đầu lòng trong đất Ai-cập; Ta đã thánh hiến cho Ta tất cả các con đầu lòng trong Ít-ra-en, của loài người cũng như của súc vật: chúng thuộc về Ta. Ta là ĐỨC CHÚA.”
+    14: ĐỨC CHÚA phán với ông Mô-sê trong sa mạc Xi-nai rằng:
+    15: “Hãy kiểm tra con cái Lê-vi theo gia tộc và thị tộc, tất cả đàn ông con trai tuổi từ một tháng trở lên, hãy ghi số.”
+    16: Vậy, ông Mô-sê đã kiểm tra họ theo lệnh ĐỨC CHÚA, như Người đã truyền cho ông.
+    17: Đây là con cái Lê-vi nêu đích danh: Ghéc-sôn, Cơ-hát, Mơ-ra-ri.
+    18: Và đây là tên con cái Ghéc-sôn theo thị tộc: Líp-ni và Sim-y.
+    19: Con cái Cơ-hát theo thị tộc là Am-ram và Gít-ha, Khép-rôn và Út-di-ên.
+    20: Con cái Mơ-ra-ri theo thị tộc là Mác-li và Mu-si. Đó là những thị tộc Lê-vi tính theo gia tộc họ.
+    21: Về phần Ghéc-sôn, có thị tộc Líp-ni và thị tộc Sim-y. Đó là các thị tộc thuộc dòng họ Ghéc-sôn.
+    22: Những người được kiểm tra, tính tất cả con trai của họ, tuổi từ một tháng trở lên, là
+    23: .
+    24: .
+    25: Các thị tộc thuộc dòng họ Ghéc-sôn đóng trại đàng sau Nhà Tạm, ở phía tây.
+    26: Đứng đầu dòng họ Ghéc-sôn là En-gia-xáp, con La-ên.
+    27: Công việc của con cháu Ghéc-sôn ở cửa Lều Hội Ngộ là trông coi Nhà Tạm và Lều, cũng như bạt che và bức màn ở lối vào Lều Hội Ngộ,
+    28: cùng các tấm rèm che khuôn viên, bức màn ở lối vào khuôn viên bao quanh Nhà Tạm và bàn thờ, cũng như các dây thừng dùng vào việc phục dịch.
+    29: Về phần Cơ-hát, có thị tộc Am-ram, thị tộc Gít-ha, thị tộc Khép-rôn và thị tộc Út-di-ên. Đó là các thị tộc thuộc dòng họ Cơ-hát.
+    30: Tổng cộng tất cả con trai tuổi từ một tháng trở lên, là
+    31: .
+    32: . Họ trông coi thánh điện.
+    33: Các thị tộc thuộc dòng họ Cơ-hát đóng trại bên cạnh Nhà Tạm, ở phía nam.
+    34: Đứng đầu dòng họ Cơ-hát là Ê-li-xa-phan, con của Út-di-ên.
+    35: Công việc của họ là trông coi Hòm Bia, bàn, trụ đèn, các bàn thờ, các đồ thờ dùng trong thánh điện, bức màn, cũng như tất cả các dịch vụ liên hệ.
+    36: Đứng đầu các thủ lãnh của các thầy Lê-vi là ông E-la-da, con tư tế A-ha-ron. Ông giám sát các nhân viên phụ trách công việc trong nơi thánh.
+    37: Về phần Mơ-ra-ri, có thị tộc Mác-li và thị tộc Mu-si. Đó là các thị tộc thuộc dòng họ Mơ-ra-ri.
+    38: Những người được kiểm tra, tính tất cả các con trai của họ, tuổi từ một tháng trở lên, là
+    39: .
+    40: .
+    41: Đứng đầu dòng họ Mơ-ra-ri là Xu-ri-ên, con A-vi-kha-gin. Họ đóng trại bên cạnh Nhà Tạm, ở phía bắc.
+    42: Công việc của con cháu Mơ-ra-ri là trông coi các tấm ván của Nhà Tạm, các thanh ngang, các cột, đế, cũng như các đồ phụ thuộc và các dịch vụ liên hệ,
+    43: cũng như các cột chung quanh khuôn viên cùng với các đế, cọc và dây thừng.
+    44: Các người đóng trại trước Nhà Tạm ở phía đông, nghĩa là trước Lều Hội Ngộ, hướng mặt trời mọc, là ông Mô-sê, ông A-ha-ron và các con ông này, là những người có trách nhiệm trông coi thánh điện thay cho con cái Ít-ra-en; còn ai khác mà tới gần sẽ phải chết.
+    45: Tổng số những người được kiểm tra thuộc dòng họ Lê-vi, những người ông Mô-sê và ông A-ha-ron đã theo lệnh ĐỨC CHÚA mà kiểm tra theo các thị tộc của họ, tất cả các con trai tuổi từ một tháng trở lên, là
+    46: .
+    47: .
+    48: ĐỨC CHÚA phán với ông Mô-sê: “Hãy kiểm tra tất cả các trưởng nam của con cái Ít-ra-en, tuổi từ một tháng trở lên, và lập danh sách chúng.
+    49: Ta là ĐỨC CHÚA. Hãy dành các người Lê-vi cho Ta thay cho tất cả các trưởng nam trong số con cái Ít-ra-en, và hãy dành súc vật của các người Lê-vi thay cho tất cả các con vật đầu lòng trong đàn vật của con cái Ít-ra-en.”
+    50: Theo như ĐỨC CHÚA đã truyền, ông Mô-sê kiểm tra tất cả các con đầu lòng trong số con cái Ít-ra-en.
+    51: Tổng số các trưởng nam được ghi tên để kiểm tra, tuổi từ một tháng trở lên, là
+    52: .
+    53: .
+    54: ĐỨC CHÚA phán với ông Mô-sê rằng:
+    55: “Hãy lấy các người Lê-vi thay cho các trưởng nam của con cái Ít-ra-en, và súc vật của các người Lê-vi thay thế các súc vật của chúng: các người Lê-vi sẽ thuộc về Ta. Ta là ĐỨC CHÚA.
+    56: Để làm giá chuộc
+    57: trưởng nam của con cái Ít-ra-en dôi hơn số người Lê-vi,
+    58: ngươi sẽ lấy mỗi đầu người là mười lăm chỉ bạc, tính theo đơn vị đo lường của thánh điện.
+    59: Ngươi sẽ đưa số bạc này cho A-ha-ron và con cái ông làm tiền chuộc số người dôi ra kể trên.”
+    60: Ông Mô-sê đã nhận món tiền chuộc số người dôi ra mà các người Lê-vi không chuộc thay.
+    61: Số bạc thu được của các trưởng nam trong số con cái Ít-ra-en là mười bốn ký, tính theo đơn vị đo lường của thánh điện.
+    62: Ông Mô-sê đã trao số tiền chuộc cho ông A-ha-ron và con cái ông này theo lệnh ĐỨC CHÚA, như Người đã truyền.
+
+  Chương 4.
+
+    1: ĐỨC CHÚA phán với ông Mô-sê và ông A-ha-ron rằng:
+    2: “Ngươi hãy lập danh sách con cháu Cơ-hát trong dòng họ Lê-vi theo thị tộc và gia tộc chúng,
+    3: tuổi từ ba mươi đến năm mươi, nghĩa là tất cả những ai đến tuổi nhập ngũ, để chúng phục vụ trong Lều Hội Ngộ.
+    4: Dịch vụ của con cháu Cơ-hát trong Lều Hội Ngộ là phụ trách các đồ thờ cực thánh.
+    5: Khi nhổ trại, A-ha-ron sẽ cùng với các con vào Lều, cuốn bức trướng mà phủ lên Hòm Bia Chứng Ước.
+    6: Chúng sẽ trải lên đó tấm bạt bằng da cá heo, và trên tấm bạt này sẽ phủ tấm vải toàn màu đỏ tía, rồi lắp các đòn khiêng vào.
+    7: Trên bàn dâng tiến, chúng sẽ trải một tấm vải đỏ tía, rồi đặt lên đó các khay, ly, chén và bình dùng trong lễ tưới rượu. Bánh thường tiến cũng phải có trên đó.
+    8: Chúng sẽ phủ lên một tấm vải đỏ thẫm và trải thêm tấm bạt da cá heo, rồi lắp các đòn khiêng vào.
+    9: Chúng sẽ lấy tấm vải đỏ tía mà phủ trụ đèn và đèn, kéo cắt bấc đèn, các đĩa đựng tàn, tất cả các bình đựng dầu đèn.
+    10: Chúng sẽ để chân đèn cùng tất cả các đồ phụ tùng vào một cái bao da cá heo và đặt lên cáng.
+    11: Trên bàn thờ bằng vàng, chúng sẽ trải tấm vải đỏ tía và phủ thêm một tấm bạt da cá heo, rồi lắp các đòn khiêng vào.
+    12: Chúng sẽ lấy các đồ dùng vào việc thờ phượng nơi thánh điện, đem bọc trong tấm vải đỏ tía, phủ thêm một tấm bạt da cá heo, rồi đặt lên cáng.
+    13: Sau khi đã lấy tro khỏi bàn thờ và trải lên tấm vải điều,
+    14: chúng sẽ đặt trên đó tất cả đồ dùng vào việc thờ phượng: bình hương, xiên, xẻng, bình rảy, tất cả đồ phụ tùng của bàn thờ, phủ lên đó một tấm bạt bằng da cá heo, và lắp các đòn khiêng vào.
+    15: Khi A-ha-ron và các con đã hoàn thành việc che phủ thánh điện cùng tất cả các đồ phụ tùng, lúc nhổ trại, thì các con của Cơ-hát sẽ đến khiêng đi; nhưng chúng sẽ không được đụng tới các vật thánh, kẻo phải chết. Đó là những gì con cái Cơ-hát phải khiêng trong Lều Hội Ngộ.
+    16: Phận sự của E-la-da, con tư tế A-ha-ron, là lo dầu đèn, hương thơm, lễ phẩm thường tiến, dầu tấn phong; nó phải trông coi toàn bộ Nhà Tạm cùng mọi vật trong đó: các vật thánh và các đồ phụ tùng.”
+    17: ĐỨC CHÚA phán với ông Mô-sê và ông A-ha-ron rằng:
+    18: “Các ngươi đừng để cho dòng họ các thị tộc Cơ-hát bị xóa bỏ khỏi chi tộc Lê-vi.
+    19: Để chúng được sống chứ không phải chết khi tới gần các vật cực thánh, các ngươi sẽ xử với chúng như thế này: A-ha-ron và các con sẽ đến và đặt mỗi người trước cái gì phải làm, trước cái gì phải khiêng vác.
+    20: Như vậy chúng sẽ không vào mà nhìn các đồ thánh, dù một giây lát, để rồi phải chết.”
+    21: ĐỨC CHÚA phán với ông Mô-sê rằng:
+    22: “Ngươi cũng hãy lập danh sách con cháu Ghéc-sôn nữa theo gia tộc và thị tộc của chúng;
+    23: những người tuổi từ ba mươi đến năm mươi, ngươi sẽ kiểm tra hết, nghĩa là tất cả những ai đến tuổi nhập ngũ, để chúng phục vụ trong Lều Hội Ngộ.
+    24: Đây là dịch vụ mà các thị tộc Ghéc-sôn phải chu toàn:
+    25: chúng sẽ mang các tấm thảm của Nhà Tạm và Lều Hội Ngộ, bạt che Lều, tức tấm bạt bằng da cá heo phủ trên Lều, màn che cửa Lều Hội Ngộ,
+    26: các tấm rèm của khuôn viên, màn che cửa khuôn viên nằm quanh Nhà Tạm và bàn thờ, các dây buộc, các đồ dùng cần thiết cho dịch vụ của chúng, tóm lại tất cả những gì liên quan tới dịch vụ ấy.
+    27: Con cái Ghéc-sôn phải thi hành mọi dịch vụ khiêng vác cũng như phục dịch, dưới quyền điều khiển của A-ha-ron và các con; các ngươi hãy giao cho chúng trông coi tất cả những gì chúng phải khiêng vác.
+    28: Đó là dịch vụ dành cho các thị tộc con cái Ghéc-sôn trong Lều Hội Ngộ, và chúng làm việc dưới quyền kiểm soát của I-tha-ma, con tư tế A-ha-ron.
+    29: Ngươi hãy kiểm tra con cháu Mơ-ra-ri theo thị tộc và gia tộc của chúng,
+    30: tuổi từ ba mươi đến năm mươi, nghĩa là tất cả những ai đến tuổi nhập ngũ, để chúng phục vụ trong Lều Hội Ngộ.
+    31: Đây là những đồ vật chúng có trách nhiệm phải khiêng vác liên quan đến dịch vụ của chúng trong Lều Hội Ngộ: khung Nhà Tạm, cột, kèo và đế,
+    32: các cột chung quanh khuôn viên cùng các đế, cọc đóng, dây thừng và tất cả đồ phụ tùng liên quan đến dịch vụ của chúng. Vậy các ngươi hãy kê khai từng thứ một tất cả các đồ vật chúng có trách nhiệm phải khiêng vác.
+    33: Đó là các dịch vụ dành cho các thị tộc con cái Mơ-ra-ri, dịch vụ mà chúng phải thi hành trong Lều Hội Ngộ, dưới quyền kiểm soát của I-tha-ma, con tư tế A-ha-ron.”
+    34: Ông Mô-sê cùng với ông A-ha-ron và các vị lãnh đạo cộng đồng đã kiểm tra con cháu Cơ-hát theo thị tộc và gia tộc họ,
+    35: tuổi từ ba mươi đến năm mươi, nghĩa là tất cả những người đến tuổi nhập ngũ, để họ phục dịch trong Lều Hội Ngộ.
+    36: Tổng số người được kiểm tra, tính theo thị tộc, là
+    37: .
+    38: .
+    39: Đó là số những người trong thị tộc Cơ-hát được kiểm tra, tất cả những người phục vụ trong Lều Hội Ngộ, mà ông Mô-sê và ông A-ha-ron đã kiểm tra theo lệnh ĐỨC CHÚA đã truyền qua ông Mô-sê.
+    40: Số con cháu Ghéc-sôn được kiểm tra theo thị tộc và gia đình tổ tiên họ,
+    41: tuổi từ ba mươi đến năm mươi, nghĩa là tất cả những người đến tuổi nhập ngũ, để phục vụ trong Lều Hội Ngộ,
+    42: tổng số những người được kiểm tra, theo thị tộc và gia tộc họ, là
+    43: .
+    44: .
+    45: Đó là số con cháu Ghéc-sôn được kiểm tra theo thị tộc, tất cả những người phục vụ trong Lều Hội Ngộ: ông Mô-sê cùng với ông A-ha-ron kiểm tra họ theo lệnh ĐỨC CHÚA.
+    46: Các con cháu Mơ-ra-ri được kiểm tra theo thị tộc và gia tộc,
+    47: tuổi từ ba mươi đến năm mươi, nghĩa là tất cả những ai đến tuổi nhập ngũ, để phục vụ trong Lều Hội Ngộ,
+    48: tổng số những người được kiểm tra, tính theo thị tộc của họ, là
+    49: .
+    50: .
+    51: Đó là các thị tộc con cháu Mơ-ra-ri, mà ông Mô-sê đã cùng với ông A-ha-ron kiểm tra theo lệnh ĐỨC CHÚA đã truyền qua ông Mô-sê.
+    52: Tổng số những người Lê-vi mà ông Mô-sê cùng với ông A-ha-ron và các vị lãnh đạo Ít-ra-en đã kiểm tra theo thị tộc và gia tộc của họ,
+    53: tuổi từ ba mươi đến năm mươi, nghĩa là tất cả những người đến tuổi phục dịch và khiêng vác trong Lều Hội Ngộ,
+    54: tổng số những người được kiểm tra là
+    55: .
+    56: .
+    57: Theo lệnh ĐỨC CHÚA truyền qua ông Mô-sê, người ta kiểm tra họ, chỉ định cho mỗi người việc phải làm và đồ vật phải khiêng vác. Thế là họ được kiểm tra như ĐỨC CHÚA đã truyền cho ông Mô-sê.
+
+End of day 31.

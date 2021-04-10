@@ -1,0 +1,135 @@
+ngày 312:
+
+đọc Rô-ma, Chương ['1', '2', '3', '4']:
+
+  Chương 1.
+
+    1: Tôi là Phao-lô, tôi tớ của Đức Ki-tô Giê-su; tôi được gọi làm Tông Đồ, và dành riêng để loan báo Tin Mừng của Thiên Chúa.
+    2: Tin Mừng ấy, xưa Người đã dùng các ngôn sứ của Người mà hứa trước trong Kinh Thánh.
+    3: Đó là Tin Mừng về Con của Người là Đức Giê-su Ki-tô, Chúa chúng ta.
+    4: Nhưng xét như Đấng đã từ cõi chết sống lại nhờ Thánh Thần, Người đã được đặt làm Con Thiên Chúa với tất cả quyền năng.
+    5: Nhờ Người, chúng tôi đã nhận được đặc ân và chức vụ Tông Đồ, làm cho hết thảy các dân ngoại vâng phục Tin Mừng hầu danh Người được rạng rỡ.
+    6: Trong số đó, có cả anh em, là những người đã được kêu gọi để thuộc về Đức Giê-su Ki-tô.
+    7: Kính gửi tất cả anh em ở Rô-ma, những người được Thiên Chúa yêu thương, được kêu gọi làm dân thánh.
+    8: Trước hết, nhờ Đức Giê-su Ki-tô, tôi tạ ơn Thiên Chúa của tôi về tất cả anh em, vì trong khắp hoàn cầu, ai ai cũng đều nói đến lòng tin của anh em.
+    9: Thiên Chúa là Đấng tôi hết lòng thờ phượng khi loan báo Tin Mừng về Con của Người, chính Người làm chứng cho tôi là tôi hằng nhắc nhở đến anh em:
+    10: mỗi khi cầu nguyện, tôi hằng xin Người cho tôi có ngày nào được dịp tốt đến thăm anh em, nếu Người muốn.
+    11: Thật vậy, tôi rất ước ao được gặp anh em, để chia sẻ với anh em phần nào ân huệ của Thánh Thần, nhờ đó anh em vững mạnh,
+    12: nghĩa là để chúng ta cùng khích lệ nhau, bởi vì cả anh em lẫn tôi, chúng ta đều chung một niềm tin.
+    13: Thưa anh em, tôi không muốn để anh em chẳng hay biết là đã nhiều lần tôi có ý định đến thăm anh em, mong cũng thâu lượm được kết quả nào đó nơi anh em, như đã thâu lượm được nơi các dân ngoại khác, nhưng cho đến nay tôi cứ bị ngăn trở hoài.
+    14: Tôi mắc nợ người Hy-lạp cũng như người man-di, người thông thái cũng như người dốt nát.
+    15: Bởi vậy, tôi nóng lòng loan báo Tin Mừng cho cả anh em nữa, những người đang sống ở Rô-ma.
+    16: Vâng, tôi không hổ thẹn vì Tin Mừng. Quả thế, Tin Mừng là sức mạnh Thiên Chúa dùng để cứu độ bất cứ ai có lòng tin, trước là người Do-thái, sau là người Hy-lạp.
+    17: Vì trong Tin Mừng, sự công chính của Thiên Chúa được mặc khải, nhờ đức tin để đưa đến đức tin, như có lời chép: Người công chính nhờ đức tin sẽ được sống.
+    18: Thật vậy, từ trời, Thiên Chúa mặc khải cơn thịnh nộ của Người chống lại mọi thứ vô luân và bất chính của những người lấy sự bất chính mà giam hãm chân lý.
+    19: Những gì người ta có thể biết về Thiên Chúa, thì thật là hiển nhiên trước mắt họ, vì chính Thiên Chúa đã cho họ thấy rõ.
+    20: Quả vậy, những gì người ta không thể nhìn thấy được nơi Thiên Chúa, tức là quyền năng vĩnh cửu và thần tính của Người, thì từ khi Thiên Chúa tạo thành vũ trụ, trí khôn con người có thể nhìn thấy được qua những công trình của Người. Do đó, họ không thể tự bào chữa được,
+    21: vì tuy biết Thiên Chúa, họ đã không tôn vinh hay cảm tạ Người cho phải đạo. Trái lại, đầu óc họ suy luận viển vông và tâm trí ngu si của họ hóa ra mê muội.
+    22: Họ khoe mình khôn ngoan, nhưng đã trở nên điên rồ.
+    23: Thay vì Thiên Chúa vinh quang bất tử, họ đã thờ hình tượng người phàm là loài phải chết, hay hình tượng các loài chim chóc, thú vật, rắn rết.
+    24: Vì thế, Thiên Chúa đã để mặc họ buông theo dục vọng mà làm những điều ô uế, khiến thân thể họ ra hư hèn.
+    25: Thay vì Thiên Chúa thật, họ đã theo những thần giả; họ đã tôn thờ những loài thọ tạo, thay vì chính Đấng Tạo Hóa. Chúc tụng Người đến muôn thuở muôn đời. A-men.
+    26: Bởi thế, Thiên Chúa đã để mặc họ buông theo dục tình đồi bại. Đàn bà không quan hệ theo lẽ tự nhiên, mà lại làm điều trái tự nhiên.
+    27: Đàn ông cũng vậy, không quan hệ với đàn bà theo lẽ tự nhiên, mà lại đem lòng thèm muốn lẫn nhau: đàn ông bậy bạ với đàn ông. Như vậy là chuốc vào thân hình phạt xứng với sự lầm lạc của mình.
+    28: Vì họ đã không thèm nhận biết Thiên Chúa, nên Người đã để mặc họ theo trí óc lệch lạc mà làm những điều bất xứng,
+    29: lòng họ đầy bất chính, xấu xa, tham lam, độc ác đủ thứ; nào là ganh tị, giết người, cãi cọ, mưu mô, thâm hiểm; nào là nói hành nói xấu,
+    30: vu oan giá họa. Họ thù ghét Thiên Chúa, ngạo ngược, kiêu căng, khoác lác, giỏi làm điều ác, không vâng lời cha mẹ,
+    31: không có lương tri, không giữ lời hứa, không chút tình cảm, không chút xót thương.
+    32: Họ thừa biết phán quyết của Thiên Chúa là: hễ ai làm những điều như vậy thì đáng chết. Thế mà không những họ cứ phạm những tội đó, lại còn tán thành những kẻ làm như vậy.
+
+  Chương 2.
+
+    1: Hỡi người, dù bạn là ai đi nữa mà bạn xét đoán, thì bạn cũng không thể tự bào chữa được. Vì khi bạn xét đoán người khác, mà bạn cũng làm như họ, thì bạn tự kết án chính mình.
+    2: Chúng ta biết rằng: Thiên Chúa cứ theo sự thật mà xét xử những ai làm những điều đó.
+    3: Còn bạn, hỡi người xét đoán những kẻ làm những điều đó trong khi chính mình cũng làm như vậy, bạn tưởng mình sẽ khỏi bị Thiên Chúa xét xử sao?
+    4: Hay là bạn coi thường lòng Chúa vô cùng nhân hậu, khoan dung, đại lượng, mà không nhận ra rằng: Thiên Chúa nhân hậu như thế là để thúc giục bạn hối cải sao?
+    5: Thế nhưng bạn lòng chai dạ đá không chịu hối cải, và như vậy bạn càng làm cho cơn thịnh nộ của Thiên Chúa chồng chất trên đầu bạn, trong ngày Thiên Chúa nổi cơn thịnh nộ và biểu lộ phán quyết công minh.
+    6: Ngày đó, Thiên Chúa sẽ thưởng phạt mỗi người tùy theo việc họ làm;
+    7: những ai bền chí làm việc thiện mà tìm vinh quang, danh dự và phúc trường sinh bất tử, thì Thiên Chúa sẽ cho họ được sống đời đời;
+    8: còn những ai chống Thiên Chúa mà không vâng phục chân lý và chạy theo điều ác, thì Người sẽ nổi trận lôi đình, trút cơn thịnh nộ xuống đầu họ.
+    9: Người sẽ bắt mọi kẻ làm điều ác phải gian nan khốn khổ, trước là người Do-thái, sau là người Hy-lạp.
+    10: Nhưng Người sẽ ban vinh quang, danh dự và bình an cho tất cả những ai làm điều thiện, trước là người Do-thái, sau là người Hy-lạp,
+    11: vì Thiên Chúa không thiên vị ai.
+    12: Quả thế, những người không biết Luật Mô-sê mà phạm tội, thì sẽ bị diệt vong không chiếu theo Luật đó. Còn những người sống dưới Luật Mô-sê mà phạm tội, thì sẽ bị xét xử theo Luật đó.
+    13: Thật vậy, người ta được Thiên Chúa coi là công chính, không phải vì nghe biết Lề Luật, nhưng là vì tuân giữ Lề Luật.
+    14: Dân ngoại là những người không có Luật Mô-sê; nhưng mỗi khi họ theo lẽ tự nhiên mà làm những gì Luật dạy, thì họ là Luật cho chính mình, mặc dầu họ không có Luật Mô-sê.
+    15: Họ cho thấy là điều gì Luật đòi hỏi, thì đã được ghi khắc trong lòng họ. Lương tâm họ cũng chứng thực điều đó, vì họ tự phán đoán trong lòng, khi thì cho mình là trái, khi thì cho mình là phải.
+    16: Người ta sẽ thấy điều đó, trong ngày Thiên Chúa cho Đức Ki-tô Giê-su đến xét xử những gì bí ẩn nơi con người theo Tin Mừng tôi rao giảng.
+    17: Còn bạn, bạn mang tên là người Do-thái, lại ỷ rằng mình có Lề Luật, và tự hào vì có Thiên Chúa;
+    18: bạn được biết ý Người, được Lề Luật dạy cho điều hay lẽ phải;
+    19: bạn xác tín rằng mình là người dẫn dắt kẻ mù lòa, là ánh sáng cho kẻ ở trong bóng tối,
+    20: là nhà giáo dục kẻ u mê, là thầy dạy người non dại, vì bạn tưởng mình có Lề Luật là có tất cả tri thức và chân lý:
+    21: Vậy, bạn biết dạy người khác, mà lại không dạy chính mình! Bạn giảng: đừng trộm cắp, mà bạn lại trộm cắp!
+    22: Bạn nói: chớ ngoại tình, mà bạn lại ngoại tình! Bạn gớm ghét ngẫu tượng, mà bạn lại cướp bóc đền miếu!
+    23: Bạn tự hào vì có Lề Luật, mà bạn lại vi phạm Lề Luật, và như vậy bạn làm nhục Thiên Chúa!
+    24: Thật đúng như lời chép: Chính vì các người mà danh Thiên Chúa bị phỉ báng giữa chư dân.
+    25: Còn phép cắt bì, đã hẳn là có ích, nếu bạn thi hành Lề Luật. Nhưng nếu bạn vi phạm Lề Luật, thì bạn có được cắt bì cũng kể như không cắt bì.
+    26: Trái lại, nếu người không được cắt bì mà giữ những điều Luật dạy, thì tuy họ không được cắt bì, Thiên Chúa chẳng coi họ như đã được cắt bì sao?
+    27: Người không được cắt bì trong thân xác mà vẫn chu toàn Lề Luật, người ấy sẽ lên án bạn, vì bạn có Lề Luật ghi chép hẳn hoi và bạn đã được cắt bì, mà vẫn vi phạm Lề Luật.
+    28: Thật vậy, người Do-thái chính hiệu không phải là căn cứ vào cái thấy được bên ngoài, phép cắt bì chính hiệu không phải là căn cứ vào cái thấy được bên ngoài, nơi thân xác.
+    29: Nhưng người Do-thái chính hiệu là người Do-thái tận đáy lòng, phép cắt bì chính hiệu là phép cắt bì trong tâm hồn, theo tinh thần của Lề Luật chứ không phải theo chữ viết của Lề Luật. Người như thế được Thiên Chúa chứ không phải người phàm khen ngợi.
+
+  Chương 3.
+
+    1: Vậy thì người Do-thái được gì hơn? Phép cắt bì có ích lợi gì?
+    2: Nhiều lắm chứ! Về mọi mặt! Trước hết, họ đã được Thiên Chúa giao phó lời Người cho họ.
+    3: Nhưng nếu có một số người Do-thái không trung tín thì sao? Chẳng lẽ sự bất trung bất tín của họ lại làm cho lòng trung tín của Thiên Chúa ra vô hiệu?
+    4: Không phải thế! Thiên Chúa nhất định là Đấng chân thật, còn mọi người đều giả dối. Như có lời chép trong Kinh Thánh:
+    5: Nhưng nếu sự bất chính của chúng tôi làm nổi bật sự công chính của Thiên Chúa, thì phải nói sao? Phải chăng Thiên Chúa không công chính khi Người trút cơn thịnh nộ? Ấy là tôi nói theo kiểu người phàm.
+    6: Không phải thế! Vì giả như Thiên Chúa không công chính, thì làm sao Người phán xét thế gian được?
+    7: Nhưng nếu sự giả dối của tôi làm cho thấy rõ hơn Thiên Chúa là Đấng chân thật, và như vậy càng tôn vinh Người, thì tại sao tôi lại còn bị kết án là kẻ tội lỗi?
+    8: Thế thì “Sao ta không cứ làm điều dữ đi, để nhờ đó mà được điều lành?” như có những kẻ vu cho chúng tôi nói câu đó. Họ có bị kết tội cũng là đích đáng.
+    9: Vậy thì sao? Người Do-thái chúng tôi có hơn gì người khác không? Không hơn gì cả! Quả thế, chúng ta đã chứng minh rằng mọi người, Do-thái cũng như Hy-lạp đều bị tội lỗi thống trị.
+    10: Như có lời chép rằng: Không ai là người công chính, dẫu một người cũng không;
+    11: chẳng ai có lương tri, chẳng ai kiếm tìm Thiên Chúa.
+    12: Người người đã lìa xa chính lộ, chỉ biết theo nhau làm chuyện suy đồi; chẳng có một ai làm điều thiện, dẫu một người cũng không.
+    13: Cửa họng chúng như nấm mồ mở rộng, khéo đẩy đưa ba tấc lưỡi phỉnh phờ chúng chứa đầy mồm nọc độc hổ mang,
+    14: miệng độc dữ điêu ngoa những buông lời nguyền rủa.
+    15: Chúng nhanh chân đi đổ máu người ta,
+    16: đi tới đâu cũng gieo tai rắc họa.
+    17: Chúng chẳng biết con đường đưa tới bình an,
+    18: chẳng thấy cần phải kính sợ Thiên Chúa.
+    19: Chúng ta biết rằng: tất cả những gì sách Luật nói là nhằm những người sống dưới Luật đó. Như vậy ai ai cũng phải câm miệng và mọi người trên thế gian đều đắc tội trước tòa Thiên Chúa.
+    20: Bởi lẽ trước nhan Chúa, không người phàm nào được nhìn nhận là công chính vì đã làm những gì Luật dạy. Luật chẳng qua chỉ làm cho người ta ý thức về tội.
+    21: Nhưng ngày nay, sự công chính của Thiên Chúa đã được thể hiện mà không cần đến Luật Mô-sê. Điều này, sách Luật và các ngôn sứ làm chứng.
+    22: Quả thế, người ta được Thiên Chúa làm cho nên công chính nhờ lòng tin vào Đức Giê-su Ki-tô. Tất cả những ai tin đều được như thế, bất luận là ai.
+    23: Thật vậy, mọi người đã phạm tội và bị tước mất vinh quang Thiên Chúa,
+    24: nhưng họ được trở nên công chính do ân huệ Thiên Chúa ban không, nhờ công trình cứu chuộc thực hiện trong Đức Ki-tô Giê-su.
+    25: Thiên Chúa đã đặt Người làm nơi xá tội nhờ máu của Người cho những ai có lòng tin. Như vậy, Thiên Chúa cho thấy Người là Đấng Công Chính. Trước kia, trong thời Thiên Chúa nhẫn nại, Người đã bỏ qua các tội lỗi người ta phạm.
+    26: Nhưng bây giờ, Người muốn cho thấy rằng Người vừa là Đấng Công Chính, vừa làm cho kẻ tin vào Đức Giê-su được nên công chính.
+    27: Vậy thì hãnh diện ở chỗ nào? Chẳng còn gì để hãnh diện! Dựa vào luật nào mà hãnh diện? Vào việc làm chăng? Không, nhưng dựa vào lòng tin.
+    28: Thật vậy, chúng tôi nghĩ rằng: người ta được nên công chính vì tin, chứ không phải vì làm những gì Luật dạy.
+    29: Hay là Thiên Chúa chỉ là Thiên Chúa của người Do-thái thôi? Thiên Chúa không là Thiên Chúa của các dân ngoại nữa sao? Có chứ! Người cũng là Thiên Chúa của các dân ngoại nữa,
+    30: vì chỉ có một Thiên Chúa, Đấng làm cho người được cắt bì nên công chính vì họ tin, và làm cho người không được cắt bì nên công chính cũng bởi họ tin.
+    31: Vậy có phải là chúng ta dựa vào đức tin mà hủy bỏ Lề Luật chăng? Không phải thế! Trái lại, chúng ta củng cố Lề Luật.
+
+  Chương 4.
+
+    1: Vậy phải nói sao về ông Áp-ra-ham, tổ phụ dân tộc chúng tôi? Ông đã được gì?
+    2: Giả như ông Áp-ra-ham được nên công chính vì những việc ông đã làm, thì ông có lý do để hãnh diện; nhưng không phải là hãnh diện trước mặt Thiên Chúa.
+    3: Thật vậy, Kinh Thánh nói gì? Ông Áp-ra-ham đã tin Thiên Chúa, và vì thế được kể là người công chính.
+    4: Người nào làm việc, thì lương trả cho người ấy không được kể là ân huệ, mà là nợ.
+    5: Trái lại người nào không dựa vào việc làm nhưng tin vào Thiên Chúa, Đấng làm cho kẻ vô đạo nên công chính, thì lòng tin làm cho người ấy được Thiên Chúa kể là công chính.
+    6: Đó là điều vua Đa-vít nói khi ca tụng hạnh phúc của người được Thiên Chúa kể là công chính mà không xét đến việc làm:
+    7: Hạnh phúc thay kẻ lỗi lầm mà được tha thứ,
+người có tội mà được khoan dung!
+    8: Hạnh phúc thay người Chúa không kể là có tội!
+    9: Lời ca tụng hạnh phúc này chỉ áp dụng cho những người được cắt bì, hay cho cả những người không được cắt bì nữa? Quả vậy, như chúng ta vừa nói: Ông Áp-ra-ham đã tin, và vì thế được kể là người công chính.
+    10: Ông được kể là người công chính khi nào? Trước hay sau khi ông được cắt bì? Không phải sau, mà là trước khi ông được cắt bì!
+    11: Ông nhận được phép cắt bì như dấu hiệu chứng thực rằng: nhờ tin mà ông được trở nên công chính, trước khi được cắt bì. Như vậy, ông là cha của mọi kẻ tin mà không được cắt bì, và vì tin nên được kể là công chính.
+    12: Ông cũng là cha của những người được cắt bì, nhưng không phải chỉ được cắt bì, mà còn dõi bước tổ phụ chúng ta là ông Áp-ra-ham, trên đường đức tin, đức tin ông đã có trước khi được cắt bì.
+    13: Thật vậy, không phải chiếu theo Lề Luật, mà Thiên Chúa đã hứa cho ông Áp-ra-ham và dòng dõi ông được thế gian làm gia nghiệp; nhưng ông được lời hứa đó, vì đã trở nên công chính nhờ lòng tin.
+    14: Nếu gia nghiệp được dành cho những kẻ lệ thuộc vào Lề Luật, thì đức tin trở nên vô nghĩa, và lời Thiên Chúa hứa bị hủy bỏ.
+    15: Quả thế, Luật gây nên cơn thịnh nộ của Thiên Chúa, còn ở đâu không có Lề Luật, thì cũng không có vi phạm.
+    16: Bởi vậy, vì tin mà người ta được thừa hưởng lời Thiên Chúa hứa; như thế lời hứa là ân huệ Thiên Chúa ban không, và có giá trị cho toàn thể dòng dõi ông Áp-ra-ham, nghĩa là không phải chỉ cho những ai giữ Lề Luật, mà còn cho những ai có lòng tin như ông. Ông là tổ phụ chúng ta hết thảy,
+    17: như có lời chép: Ta đã đặt ngươi làm tổ phụ nhiều dân tộc. Ông là tổ phụ chúng ta trước mặt Thiên Chúa, Đấng ông tin tưởng, Đấng làm cho kẻ chết được sống và khiến những gì không có hóa có.
+    18: Mặc dầu không còn gì để trông cậy, ông vẫn trông cậy và vững tin, do đó ông đã trở thành tổ phụ nhiều dân tộc, như lời Thiên Chúa phán: Dòng dõi ngươi sẽ đông đảo như thế.
+    19: Ông đã gần một trăm tuổi, nhưng ông vẫn vững tin không nao núng, khi nghĩ rằng thân xác ông cũng như dạ bà Xa-ra đều đã chết.
+    20: Ông đã chẳng mất niềm tin, chẳng chút nghi ngờ lời Thiên Chúa hứa; trái lại, nhờ niềm tin, ông đã nên vững mạnh và tôn vinh Thiên Chúa,
+    21: vì ông hoàn toàn xác tín rằng: điều gì Thiên Chúa đã hứa thì Người cũng có đủ quyền năng thực hiện.
+    22: Bởi thế, ông được kể là người công chính.
+    23: Nhưng khi viết ông được kể là người công chính, thì không phải chỉ nói về ông,
+    24: mà còn nói về cả chúng ta nữa: chúng ta sẽ được kể là công chính, vì tin vào Đấng đã làm cho Đức Giê-su, Chúa chúng ta, sống lại từ cõi chết;
+    25: Đức Giê-su chính là Đấng đã bị trao nộp vì tội lỗi chúng ta và đã được Thiên Chúa làm cho sống lại để chúng ta được nên công chính.
+
+End of day 312.

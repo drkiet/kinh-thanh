@@ -1,0 +1,76 @@
+ngày 267:
+
+đọc A-mốt, Chương ['1', '2', '3', '4']:
+
+  Chương 1.
+
+    1: Lời của A-mốt. Ông là một trong những người chăn cừu tại Tơ-cô-a, ông đã thấy thị kiến liên quan đến Ít-ra-en, dưới thời Út-di-gia làm vua nước Giu-đa, và Gia-róp-am – con vua Giô-át – làm vua nước Ít-ra-en, hai năm trước trận động đất.
+    2: Ông nói: Từ Xi-on, ĐỨC CHÚA gầm lên, và từ Giê-ru-sa-lem, Người lên tiếng; đồng cỏ của mục tử nhuốm màu tang tóc, đỉnh núi Các-men nay đã héo tàn.
+    3: ĐỨC CHÚA phán thế này: Vì tội của Đa-mát đã lên tới cực độ, Ta sẽ không rút lại bản án. Vì chúng đã dùng bừa sắt cày nát Ga-la-át,
+    4: Ta sẽ phóng hỏa vào nhà Kha-da-ên và lửa sẽ thiêu rụi đền đài của Ben Ha-đát.
+    5: Ta sẽ bẻ gãy then cửa thành Đa-mát, Ta sẽ bứng nhà lãnh đạo khỏi Bích-át A-ven và người cầm phủ việt khỏi Bết E-đen. Dân A-ram sẽ bị đày đến xứ Kia – ĐỨC CHÚA phán như vậy.
+    6: ĐỨC CHÚA phán thế này: Vì tội của Ga-da đã lên tới cực độ, Ta sẽ không rút lại bản án. Vì chúng đã đưa cả đoàn người đi đày để nộp vào tay Ê-đôm,
+    7: Ta sẽ phóng hỏa lên tường thành Ga-da, và lửa sẽ thiêu rụi đền đài ở đó.
+    8: Ta sẽ bứng nhà lãnh đạo khỏi Át-đốt, và người cầm phủ việt khỏi Át-cơ-lôn; Ta sẽ trở tay đánh Éc-rôn, và tàn quân Phi-li-tinh sẽ bị tiêu diệt – ĐỨC CHÚA là Chúa Thượng phán như vậy.
+    9: ĐỨC CHÚA phán thế này: Vì tội của Tia đã lên tới cực độ, Ta sẽ không rút lại bản án. Vì chúng đã nộp cho Ê-đôm cả đoàn người đi đày, và không nhớ đến lời giao kết với các nước anh em,
+    10: nên Ta sẽ phóng hỏa lên tường thành Tia, và lửa sẽ thiêu rụi đền đài ở đó.
+    11: ĐỨC CHÚA phán thế này: Vì tội của Ê-đôm đã lên tới cực độ, Ta sẽ không rút lại bản án. Vì nó đã cầm gươm truy kích anh em, bóp nghẹt lòng thương xót; vì nó còn nuôi hoài cơn giận, và giữ mãi mối hận thù,
+    12: nên Ta sẽ phóng hỏa vào Tê-man, và lửa sẽ thiêu rụi đền đài Bót-ra.
+    13: ĐỨC CHÚA phán thế này: Vì tội của Am-mon đã lên tới cực độ, Ta sẽ không rút lại bản án. Vì chúng đã mổ bụng đàn bà có thai ở Ga-la-át để mở rộng bờ cõi,
+    14: Ta sẽ phun lửa lên tường thành Ráp-ba, và lửa sẽ thiêu rụi các đền đài ở đó, giữa tiếng thét gào của một ngày xung trận, giữa cơn cuồng phong của một ngày dông tố.
+    15: Vua của chúng sẽ phải đi đày, cả vua lẫn quan cùng một lúc – ĐỨC CHÚA phán như vậy.
+
+  Chương 2.
+
+    1: ĐỨC CHÚA phán thế này: Vì tội của Mô-áp đã lên tới cực độ, Ta sẽ không rút lại bản án. Vì nó đã đốt hài cốt vua Ê-đôm thành than,
+    2: nên Ta sẽ phóng hỏa vào Mô-áp, và lửa sẽ thiêu rụi đền đài Cơ-ri-giốt; Mô-áp sẽ tiêu vong trong cảnh hỗn loạn, giữa tiếng gào thét, giữa tiếng tù và.
+    3: Ta sẽ bứng vị thẩm phán đi khỏi nó và Ta sẽ giết sạch các quan cùng với vị này – ĐỨC CHÚA phán như vậy.
+    4: ĐỨC CHÚA phán thế này: Vì tội của Giu-đa đã lên tới cực độ, Ta sẽ không rút lại bản án. Vì chúng đã khinh thường luật pháp của ĐỨC CHÚA và không tuân giữ các thánh chỉ của Người. Vì những thần dối trá xưa cha ông chúng chạy theo đã làm cho chúng ra lầm lạc,
+    5: nên Ta sẽ phóng hỏa vào Giu-đa và lửa sẽ thiêu rụi đền đài Giê-ru-sa-lem.
+    6: ĐỨC CHÚA phán thế này: Vì tội của Ít-ra-en đã lên tới cực độ, Ta sẽ không rút lại bản án. Vì chúng bán người công chính để lấy tiền, bán kẻ nghèo khổ với giá một đôi giày.
+    7: Vì chúng đạp đầu kẻ yếu thế xuống bùn đen và xô người khiêm hạ ra khỏi đường lộ. Vì cả con lẫn cha đi lại với cùng một ả, mà làm ô nhục danh thánh của Ta.
+    8: Vì y phục người ta cầm cố, chúng nằm lên trên, ngay bên mọi bàn thờ, và rượu của người bị nộp phạt, chúng đem uống tại đền thờ Thiên Chúa của chúng.
+    9: Còn Ta, trước kia Ta đã từng diệt trừ người E-mô-ri khỏi mắt họ. Bọn người này cao lớn như cây hương nam và hùng mạnh như cây sồi. Ta đã diệt hoa trái bên trên và gốc rễ bên dưới của bọn chúng.
+    10: Chính Ta đã đem các ngươi lên khỏi đất Ai-cập, dẫn các ngươi đi trong sa mạc bốn mươi năm trường để các ngươi chiếm hữu đất của người E-mô-ri.
+    11: Xưa Ta đã từng cho xuất hiện những ngôn sứ từ hàng con cái các ngươi, những na-dia từ lớp người trai tráng. Chẳng phải như vậy sao, hỡi con cái Ít-ra-en? – sấm ngôn của ĐỨC CHÚA.
+    12: Thế mà các ngươi đã bắt các na-dia uống rượu và ra lệnh cho các ngôn sứ: “Các ông không được nói tiên tri!”
+    13: Vậy này đây, ta sắp cán lên các ngươi như chiếc xe chất đầy lúa cán lên mặt đất.
+    14: Trong ngày ấy, kẻ lanh lẹ hết đường trốn chạy, người mạnh mẽ vô phương thi thố sức lực mình, trang dũng sĩ cũng không thoát chết,
+    15: người cầm cung nào đứng vững nổi, kẻ nhanh chân chẳng thoát được đâu, người cỡi ngựa cũng không thoát chết,
+    16: người can đảm nhất trong đám dũng sĩ sẽ phải mình trần mà chạy trốn, – sấm ngôn của ĐỨC CHÚA.
+
+  Chương 3.
+
+    1: Hỡi con cái Ít-ra-en, hãy nghe lời này, lời ĐỨC CHÚA phán để tố cáo các ngươi, tố cáo toàn thể thị tộc đã được Ta đưa lên khỏi đất Ai-cập. Lời ấy nói rằng:
+    2: Giữa mọi thị tộc trên mặt đất, Ta đã chỉ biết các ngươi thôi. Vì thế, Ta sẽ hạch hỏi các ngươi về mọi tội các ngươi đã phạm. Không cưỡng lại được ơn gọi ngôn sứ
+    3: Hai người có đồng hành được chăng, nếu đã không hẹn với nhau từ trước?
+    4: Trong rừng, sư tử có gầm lên chăng, nếu nó không có mồi? Từ trong hang, sư tử tơ có rống lên không, nếu nó không vồ được mồi?
+    5: Dưới đất, chim sẻ có sa vào bẫy chăng, nếu không có mồi nhử? Bẫy có bật lên khỏi mặt đất chăng, nếu nó không bắt được gì?
+    6: Giả như tù và rúc lên trong thành, lẽ nào dân lại không sợ hãi? Giả như tai họa xảy ra trong thành, lẽ nào lại không do ĐỨC CHÚA?
+    7: Vì ĐỨC CHÚA là Chúa Thượng không làm điều gì mà không bày tỏ kế hoạch của Người cho các ngôn sứ, tôi tớ của Người được biết.
+    8: Sư tử đã gầm lên: ai mà không sợ hãi? ĐỨC CHÚA là Chúa Thượng đã phán, ai chẳng nói tiên tri?
+    9: Trên các lâu đài tại Át-đốt, hãy lên tiếng, và trên các lâu đài tại đất Ai-cập, hãy nói rằng: Các ngươi hãy tụ tập trên đồi núi xứ Sa-ma-ri và nhìn xem bao cảnh hỗn loạn, cùng những cảnh bạo tàn ở đó.
+    10: Những kẻ chất đống trong lâu đài của mình của cải do áp bức và cưỡng đoạt, chúng nào biết sống ngay thẳng là gì – sấm ngôn của ĐỨC CHÚA.
+    11: Vì thế, ĐỨC CHÚA là Chúa Thượng phán thế này: Quân thù sẽ bao vây lãnh thổ, sẽ triệt hạ sức mạnh của ngươi, và đền đài của ngươi sẽ bị cướp phá.
+    12: ĐỨC CHÚA phán thế này: Như người chăn chiên giựt ra khỏi miệng sư tử hai cái cẳng hay một mảnh tai của con chiên, con cái Ít-ra-en sống tại Sa-ma-ri, ở đầu giường hay trên trường kỷ lộng lẫy, cũng sẽ được giựt ra như vậy.
+    13: Hãy nghe đây và đứng ra tố cáo nhà Gia-cóp – sấm ngôn của ĐỨC CHÚA là Chúa Thượng, Thiên Chúa các đạo binh.
+    14: Vào ngày Ta trị tội Ít-ra-en Ta sẽ triệt hạ các bàn thờ của Bết Ên: các sừng của bàn thờ sẽ bị bẻ gãy và quăng xuống đất.
+    15: Biệt thự mùa đông, biệt thự mùa hè, Ta sẽ triệt phá; điện ngọc đền ngà sẽ sụp đổ, lâu đài dinh thự cũng tan hoang – sấm ngôn của ĐỨC CHÚA.
+
+  Chương 4.
+
+    1: Hãy nghe lời này, hỡi các mụ bò cái xứ Ba-san trên vùng núi Sa-ma-ri! Các ngươi ngược đãi kẻ yếu hèn, chà đạp người nghèo đói, và bảo các ông chồng của mình: “Đem rượu lại đây cho ta uống!”
+    2: Với danh nghĩa là Đấng Thánh, ĐỨC CHÚA là Chúa Thượng đã thề rằng: Đây sắp đến những ngày người ta kéo các ngươi đi bằng lao móc và lấy lưỡi câu lôi những kẻ theo sau các ngươi.
+    3: Qua những lỗ hổng của tường thành bị phá, các ngươi sẽ phải chui ra, mạnh ai nấy chạy, và sẽ bị dồn về phía Hác-môn – sấm ngôn của ĐỨC CHÚA.
+    4: Hỡi con cái Ít-ra-en, cứ đến Bết Ên mà phản bội, đến Ghin-gan mà phản bội nữa đi! Sáng sáng hãy tiến dâng hy lễ và cứ ba ngày lại dâng cúng lễ thập phân.
+    5: Cứ đốt bánh không men làm lễ tạ ơn, và những lễ phẩm tự nguyện các ngươi dâng, hãy rêu rao cho người ta biết, bởi các ngươi thích làm như vậy – sấm ngôn của ĐỨC CHÚA là Chúa Thượng.
+    6: Phần Ta, Ta đã làm cho các ngươi phải đói nhăn răng ở hết mọi thành phố, thiếu bánh ăn ở mọi nơi các ngươi cư ngụ; thế mà các ngươi vẫn không chịu trở về với Ta – sấm ngôn của ĐỨC CHÚA.
+    7: Ba tháng trước mùa gặt, chính Ta đã ngăn mưa lại không cho đổ xuống trên các ngươi; Ta cho mưa xuống trên thành này, nhưng không cho mưa xuống trên thành khác; cánh đồng này được mưa tưới đượm, còn cánh đồng kia phải khô cháy vì thiếu mưa;
+    8: dân hai ba thành lảo đảo đến một thành tìm nước uống mà không đã khát; thế mà các ngươi vẫn không chịu trở về với Ta – sấm ngôn của ĐỨC CHÚA.
+    9: Ta đã đánh phạt các ngươi khiến đồng lúa các ngươi bị úa vàng và sâu đục; bao vườn cây, vườn nho của các ngươi, những cây ô-liu và cây vả, đều bị châu chấu cào cào ăn sạch; thế mà các ngươi vẫn không chịu trở về với Ta – sấm ngôn của ĐỨC CHÚA.
+    10: Ta đã giáng xuống trên các ngươi một tai ương cùng loại với tai ương bên Ai-cập; Ta dùng gươm giết chết trai tráng của các ngươi và cướp lấy chiến mã; Ta cho mùi hôi thối bốc lên mũi các ngươi từ doanh trại các ngươi đang ở; thế mà các ngươi vẫn không chịu trở về với Ta – sấm ngôn của ĐỨC CHÚA.
+    11: Ta đã làm cho các ngươi phải sụp đổ như chính Thiên Chúa đã làm sụp đổ thành Xơ-đôm và Gô-mô-ra; các ngươi khác nào thanh củi được rút khỏi đống lửa cháy; thế mà các ngươi vẫn không chịu trở về với Ta – sấm ngôn của ĐỨC CHÚA.
+    12: Vậy, hỡi Ít-ra-en, Ta sẽ xử với ngươi như thế này, và bởi vì Ta sẽ xử với ngươi như vậy nên, hỡi Ít-ra-en, ngươi hãy chuẩn bị đi gặp Thiên Chúa của ngươi.
+    13: Này đây, Đấng tạo ra núi non, dựng nên gió bão, Đấng tỏ cho con người biết ý định của mình, Đấng làm ra bình minh và bóng tối, Đấng ngự giá trên những đỉnh cao của địa cầu, danh hiệu của Người là ĐỨC CHÚA, Thiên Chúa các đạo binh.
+
+End of day 267.
